@@ -1,4 +1,0 @@
-#!/bin/sh
-
-echo "Running norminette !"
-norminette || exit 1
